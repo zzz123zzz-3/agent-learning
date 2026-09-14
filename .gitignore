@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# 密钥与环境配置（绝对不要提交！）
+.env
+.env.*
+
+# 临时与测试文件
+.codex-test/
+*.log
+*.tmp
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
